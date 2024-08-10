@@ -1,2 +1,3 @@
-# lyntr-in-popup-firefox
-You can open Lyntr in a pop-up window.
+# Lyntr in Popup for Firefox
+This extension allows you to open x in a pop-up window. **background.js** bypasses X-Frame-Options.
+![Preview](preview.png)

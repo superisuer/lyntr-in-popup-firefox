@@ -1,0 +1,8 @@
+html,
+body,
+iframe {
+  width: 1000px;
+  height: 700px;
+  margin: 0px !important;
+  border: 0;
+}

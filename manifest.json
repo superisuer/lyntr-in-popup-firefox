@@ -4,7 +4,7 @@
   "version": "1.0",
 
   "description": "Adds a Lyntr to the toolbar.",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/main/beastify",
+  "homepage_url": "https://github.com/superisuer/lyntr-in-popup-firefox/",
   "icons": {
     "1024": "icons/slyntr.png"
   },
